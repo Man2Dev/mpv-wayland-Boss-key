@@ -7,7 +7,6 @@ Add to input.conf:
 b script-binding minimize-window
 ```
 
----
 #  Copyright
 
 mpv wayland Boss-key is released under version 3 or later of the GPL, the GNU General Public License.
