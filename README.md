@@ -4,9 +4,9 @@ rather than using hacky methods like xtodo or ... use mpvs own API/ABI to minimi
 
 #  Copyright
 
-refedora is released under version 3 or later of the GPL, the GNU General Public License.
+mpv wayland Boss-key is released under version 3 or later of the GPL, the GNU General Public License.
 See [license.txt](license.txt).
 
-The author of refedora:
+The author of mpv wayland Boss-key:
 
 - Copyright (C) 2023-2023 Mohammadreza Hendiani `<Man2Dev@proton.me>`
