@@ -1,6 +1,5 @@
 # rewrite of Boss Key mpv extention for Wayland
-rather than using hacky methods like xtodo or ... use mpvs own API/ABI to minimize windows
-
+rather than using hacky methods like xtodo or ... use mpvs own API/ABI to pause and, minimize mpv.
 
 Add to input.conf:
 ```
