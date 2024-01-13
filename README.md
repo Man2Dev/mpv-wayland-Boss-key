@@ -10,6 +10,7 @@ b script-binding minimize-window
 #  Copyright
 
 mpv wayland Boss-key is released under version 3 or later of the GPL, the GNU General Public License.
+
 See [license.txt](license.txt).
 
 The author of mpv wayland Boss-key:
