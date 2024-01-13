@@ -1,4 +1,4 @@
-# rewrite of Boss Key mpv extention for Wayland (Linux)
+# rewrite of Boss Key mpv extention for Wayland
 rather than using hacky methods like xtodo or ... use mpvs own API/ABI to minimize windows
 
 
