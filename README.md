@@ -14,4 +14,4 @@ See [license.txt](license.txt).
 
 The author of mpv wayland Boss-key:
 
-- Copyright (C) 2023-2023 Mohammadreza Hendiani `<Man2Dev@proton.me>`
+- Copyright (C) 2023-2024 Mohammadreza Hendiani `<man2dev@fedoraproject.org>`
